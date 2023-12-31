@@ -1,12 +1,12 @@
-Hi 👋 My name is Alyssa Lopez
+Hi 👋 My name is Alyssa Johnson
 =============================
 
 Full Stack Software Developer
 -----------------------------
 
-Hi, my name is Alyssa Lopez. I am a Full Stack Software Developer passionate about bringing design concepts to life through code. I have earned my certificate in Full Stack Web Development from UNC Charlotte's Coding Bootcamp. Through this program, I have gained skills in HTML5, CSS3, JavaScript, MySQL, MongoDB, Express, React, and Node (MERN stack). I am a creative problem-solver who is passionate about solving code and being a lifelong learner. With each project placed in front of me, I challenge myself to expand upon my skills and become a better programmer.
+Hi, my name is Alyssa Johnson. I am a Full Stack Software Developer passionate about bringing design concepts to life through code. I have earned my certificate in Full Stack Web Development from UNC Charlotte's Coding Bootcamp. Through this program, I have gained skills in HTML5, CSS3, JavaScript, MySQL, MongoDB, Express, React, and Node (MERN stack). I am a creative problem-solver who is passionate about solving code and being a lifelong learner. With each project placed in front of me, I challenge myself to expand upon my skills and become a better programmer.
 
-* 🌍  I'm based in Raleigh, North Carolina
+* 🌍  I'm based in Charlotte, North Carolina
 * 🖥️  [View my portfolio here!](https://alyssa20lopez.wixsite.com/portfolio)
 * ✉️  You can contact me at [alyssa20lopez@gmail.com](mailto:alyssa20lopez@gmail.com)
 
